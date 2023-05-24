@@ -45,6 +45,8 @@ toc::[]
 * https://min.io/[MinIO] - MinIO is a high performance, distributed object storage system and AWS S3 compatible.
 * https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
 * https://www.mongodb.com/[MongoDB] - an open-source database that uses a document-oriented data model.
+* https://memgraph.com/memgraphdb/[Memgraph] - fast graph database for streaming data.
+
 
 == Data Governance and Registries
 
